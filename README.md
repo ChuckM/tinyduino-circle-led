@@ -2,7 +2,7 @@ README
 ------
 
 This is a program for driving the [Circle LED](https://tiny-circuits.com/shop/tinyshield-circle-edge-leds/) shield from
-[Tiny Ciruits](http://tiny-circuits.com). The weird thing about 
+[Tiny Circuits](http://tiny-circuits.com). The weird thing about 
 CharliePlexing is that you turn on the LEDs by making two pins outputs
 and the other inputs. So realistically you can only turn on one LED at
 a time.
